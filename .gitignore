@@ -1,0 +1,13 @@
+.DS_Store
+build/
+.artifacts/
+*.caf
+*.wav
+*.pcm
+*.gguf
+*.safetensors
+.env*
+
+__pycache__/
+
+*.pyc
